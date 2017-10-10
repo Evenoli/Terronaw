@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 488b7270d9b91de47ab44638f1a4b5eb
+timeCreated: 1507646464
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cammy_Idle_0
+    21300002: Cammy_Idle_1
+    21300004: Cammy_Idle_2
+    21300006: Cammy_Idle_3
+    21300008: Cammy_Idle_4
+    21300010: Cammy_Run_0
+    21300012: Cammy_Run_1
+    21300014: Cammy_Run_2
+    21300016: Cammy_Run_3
+    21300018: Cammy_Run_4
+    21300020: Cammy_Run_5
+    21300022: Cammy_Jump_0
+    21300024: Cammy_Jump_1
+    21300026: Cammy_Jump_2
+    21300028: Cammy_Jump_3
+    21300030: Cammy_Jump_4
+    21300032: Cammy_Jump_5
+    21300034: Cammy_Shadow
+    21300036: Cammy_L_punch_0
+    21300038: Cammy_L_punch_1
+    21300040: Cammy_L_punch_2
+    21300042: Cammy_R_punch_0
+    21300044: Cammy_R_punch_1
+    21300046: Cammy_R_punch_2
+    21300048: Cammy_L_punch2_0
+    21300050: Cammy_L_punch2_1
+    21300052: Cammy_L_punch2_2
+    21300054: Cammy_L_punch2_3
+    21300056: Cammy_L_punch2_4
+    21300058: Cammy_L_elbow_0
+    21300060: Cammy_L_elbow_1
+    21300062: Cammy_L_elbow_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cammy_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.36745366, y: 0.06250949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.3596562, y: 0.07983534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.2972818, y: 0.07983534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.33626616, y: 0.0755032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.33626616, y: 0.066840276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Run_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.27105653, y: 0.0689643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Run_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1096
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.27105653, y: 0.06189779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Run_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1095
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.23289917, y: 0.08309733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Run_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1095
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.2583374, y: 0.090162486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Run_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1095
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24561828, y: 0.07603081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Run_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1095
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.30921388, y: 0.08309733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1095
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.28377563, y: 0.11136203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1095
+        width: 38
+        height: 105
+      alignment: 9
+      pivot: {x: 0.21549426, y: 0.10025809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1095
+        width: 36
+        height: 101
+      alignment: 9
+      pivot: {x: 0.1820238, y: 0.07183294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1095
+        width: 37
+        height: 97
+      alignment: 9
+      pivot: {x: 0.19061774, y: 0.07384499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1095
+        width: 38
+        height: 101
+      alignment: 9
+      pivot: {x: 0.14855154, y: 0.078129835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1095
+        width: 40
+        height: 106
+      alignment: 9
+      pivot: {x: 0.15022583, y: 0.07403104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_Shadow
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1094
+        width: 45
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61562276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 988
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.26911166, y: 0.10282186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 989
+        width: 72
+        height: 90
+      alignment: 9
+      pivot: {x: 0.19585058, y: 0.10887248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 989
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25531587, y: 0.10887112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_R_punch_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 989
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.28740966, y: 0.09338243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_R_punch_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 989
+        width: 78
+        height: 90
+      alignment: 9
+      pivot: {x: 0.11582829, y: 0.10120714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_R_punch_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 989
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.23382385, y: 0.100319415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch2_0
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 990
+        width: 50
+        height: 90
+      alignment: 9
+      pivot: {x: 0.26934755, y: 0.058795843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch2_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 990
+        width: 71
+        height: 90
+      alignment: 9
+      pivot: {x: 0.2765043, y: 0.06355523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch2_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 990
+        width: 79
+        height: 90
+      alignment: 9
+      pivot: {x: 0.20186643, y: 0.05610894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch2_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 990
+        width: 69
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25234765, y: 0.05272081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_punch2_4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 990
+        width: 52
+        height: 90
+      alignment: 9
+      pivot: {x: 0.27011696, y: 0.05882636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_elbow_0
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 990
+        width: 52
+        height: 88
+      alignment: 9
+      pivot: {x: 0.19542167, y: 0.078053564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_elbow_1
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 990
+        width: 55
+        height: 88
+      alignment: 9
+      pivot: {x: 0.24216641, y: 0.0806753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cammy_L_elbow_2
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 990
+        width: 50
+        height: 88
+      alignment: 9
+      pivot: {x: 0.16807128, y: 0.07889765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
